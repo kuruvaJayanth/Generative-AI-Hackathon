@@ -1,0 +1,1567 @@
+{
+  "source_name": "CDC NHANES 2017\u20132018",
+  "source_url": "https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overview.aspx?BeginYear=2017",
+  "data_origin": "cached_fallback",
+  "benchmarks": [
+    {
+      "age_group": "all_adults",
+      "activity_level": "all",
+      "bmi_range": "all",
+      "sample_size": 4742,
+      "medians": {
+        "energy_kcal": 2025.0,
+        "protein_g": 75.5,
+        "carbs_g": 232.0,
+        "fiber_g": 15.8,
+        "sugar_g": 94.0,
+        "fat_g": 79.0,
+        "sodium_mg": 3250.0,
+        "potassium_mg": 2480.0,
+        "iron_mg": 13.2,
+        "calcium_mg": 870.0
+      },
+      "survey_statistics": {
+        "sample_size": 4742,
+        "median_bmi": 28.4,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 11.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "all",
+      "bmi_range": "<18.5",
+      "sample_size": 1186,
+      "medians": {
+        "energy_kcal": 1802.2,
+        "protein_g": 67.2,
+        "carbs_g": 206.5,
+        "fiber_g": 14.1,
+        "sugar_g": 83.7,
+        "fat_g": 70.3,
+        "sodium_mg": 2892.5,
+        "potassium_mg": 2207.2,
+        "iron_mg": 11.7,
+        "calcium_mg": 774.3
+      },
+      "survey_statistics": {
+        "sample_size": 1186,
+        "median_bmi": 28.4,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 11.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "all",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 1186,
+      "medians": {
+        "energy_kcal": 1984.5,
+        "protein_g": 74.0,
+        "carbs_g": 227.4,
+        "fiber_g": 15.5,
+        "sugar_g": 92.1,
+        "fat_g": 77.4,
+        "sodium_mg": 3185.0,
+        "potassium_mg": 2430.4,
+        "iron_mg": 12.9,
+        "calcium_mg": 852.6
+      },
+      "survey_statistics": {
+        "sample_size": 1186,
+        "median_bmi": 28.4,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 11.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "all",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 1186,
+      "medians": {
+        "energy_kcal": 2065.5,
+        "protein_g": 77.0,
+        "carbs_g": 236.6,
+        "fiber_g": 16.1,
+        "sugar_g": 95.9,
+        "fat_g": 80.6,
+        "sodium_mg": 3315.0,
+        "potassium_mg": 2529.6,
+        "iron_mg": 13.5,
+        "calcium_mg": 887.4
+      },
+      "survey_statistics": {
+        "sample_size": 1186,
+        "median_bmi": 28.4,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 11.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "all",
+      "bmi_range": "30+",
+      "sample_size": 1186,
+      "medians": {
+        "energy_kcal": 2126.2,
+        "protein_g": 79.3,
+        "carbs_g": 243.6,
+        "fiber_g": 16.6,
+        "sugar_g": 98.7,
+        "fat_g": 83.0,
+        "sodium_mg": 3412.5,
+        "potassium_mg": 2604.0,
+        "iron_mg": 13.9,
+        "calcium_mg": 913.5
+      },
+      "survey_statistics": {
+        "sample_size": 1186,
+        "median_bmi": 28.4,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 11.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "active",
+      "bmi_range": "all",
+      "sample_size": 2086,
+      "medians": {
+        "energy_kcal": 2187.0,
+        "protein_g": 81.5,
+        "carbs_g": 250.6,
+        "fiber_g": 17.1,
+        "sugar_g": 101.5,
+        "fat_g": 85.3,
+        "sodium_mg": 3510.0,
+        "potassium_mg": 2678.4,
+        "iron_mg": 14.3,
+        "calcium_mg": 939.6
+      },
+      "survey_statistics": {
+        "sample_size": 2086,
+        "median_bmi": 27.6,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 9.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "active",
+      "bmi_range": "<18.5",
+      "sample_size": 522,
+      "medians": {
+        "energy_kcal": 1946.4,
+        "protein_g": 72.6,
+        "carbs_g": 223.0,
+        "fiber_g": 15.2,
+        "sugar_g": 90.4,
+        "fat_g": 75.9,
+        "sodium_mg": 3123.9,
+        "potassium_mg": 2383.8,
+        "iron_mg": 12.7,
+        "calcium_mg": 836.2
+      },
+      "survey_statistics": {
+        "sample_size": 522,
+        "median_bmi": 27.6,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 9.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "active",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 522,
+      "medians": {
+        "energy_kcal": 2143.3,
+        "protein_g": 79.9,
+        "carbs_g": 245.5,
+        "fiber_g": 16.7,
+        "sugar_g": 99.5,
+        "fat_g": 83.6,
+        "sodium_mg": 3439.8,
+        "potassium_mg": 2624.8,
+        "iron_mg": 14.0,
+        "calcium_mg": 920.8
+      },
+      "survey_statistics": {
+        "sample_size": 522,
+        "median_bmi": 27.6,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 9.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "active",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 522,
+      "medians": {
+        "energy_kcal": 2230.7,
+        "protein_g": 83.2,
+        "carbs_g": 255.6,
+        "fiber_g": 17.4,
+        "sugar_g": 103.6,
+        "fat_g": 87.0,
+        "sodium_mg": 3580.2,
+        "potassium_mg": 2732.0,
+        "iron_mg": 14.5,
+        "calcium_mg": 958.4
+      },
+      "survey_statistics": {
+        "sample_size": 522,
+        "median_bmi": 27.6,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 9.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "active",
+      "bmi_range": "30+",
+      "sample_size": 522,
+      "medians": {
+        "energy_kcal": 2296.4,
+        "protein_g": 85.6,
+        "carbs_g": 263.1,
+        "fiber_g": 17.9,
+        "sugar_g": 106.6,
+        "fat_g": 89.6,
+        "sodium_mg": 3685.5,
+        "potassium_mg": 2812.3,
+        "iron_mg": 15.0,
+        "calcium_mg": 986.6
+      },
+      "survey_statistics": {
+        "sample_size": 522,
+        "median_bmi": 27.6,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 9.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "moderate_low",
+      "bmi_range": "all",
+      "sample_size": 2656,
+      "medians": {
+        "energy_kcal": 1903.5,
+        "protein_g": 71.0,
+        "carbs_g": 218.1,
+        "fiber_g": 14.9,
+        "sugar_g": 88.4,
+        "fat_g": 74.3,
+        "sodium_mg": 3055.0,
+        "potassium_mg": 2331.2,
+        "iron_mg": 12.4,
+        "calcium_mg": 817.8
+      },
+      "survey_statistics": {
+        "sample_size": 2656,
+        "median_bmi": 29.0,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 12.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "moderate_low",
+      "bmi_range": "<18.5",
+      "sample_size": 664,
+      "medians": {
+        "energy_kcal": 1694.1,
+        "protein_g": 63.2,
+        "carbs_g": 194.1,
+        "fiber_g": 13.2,
+        "sugar_g": 78.6,
+        "fat_g": 66.1,
+        "sodium_mg": 2718.9,
+        "potassium_mg": 2074.8,
+        "iron_mg": 11.0,
+        "calcium_mg": 727.8
+      },
+      "survey_statistics": {
+        "sample_size": 664,
+        "median_bmi": 29.0,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 12.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "moderate_low",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 664,
+      "medians": {
+        "energy_kcal": 1865.4,
+        "protein_g": 69.6,
+        "carbs_g": 213.7,
+        "fiber_g": 14.6,
+        "sugar_g": 86.6,
+        "fat_g": 72.8,
+        "sodium_mg": 2993.9,
+        "potassium_mg": 2284.6,
+        "iron_mg": 12.2,
+        "calcium_mg": 801.4
+      },
+      "survey_statistics": {
+        "sample_size": 664,
+        "median_bmi": 29.0,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 12.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "moderate_low",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 664,
+      "medians": {
+        "energy_kcal": 1941.6,
+        "protein_g": 72.4,
+        "carbs_g": 222.4,
+        "fiber_g": 15.1,
+        "sugar_g": 90.1,
+        "fat_g": 75.7,
+        "sodium_mg": 3116.1,
+        "potassium_mg": 2377.8,
+        "iron_mg": 12.7,
+        "calcium_mg": 834.2
+      },
+      "survey_statistics": {
+        "sample_size": 664,
+        "median_bmi": 29.0,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 12.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "all_adults",
+      "activity_level": "moderate_low",
+      "bmi_range": "30+",
+      "sample_size": 664,
+      "medians": {
+        "energy_kcal": 1998.7,
+        "protein_g": 74.5,
+        "carbs_g": 229.0,
+        "fiber_g": 15.6,
+        "sugar_g": 92.8,
+        "fat_g": 78.0,
+        "sodium_mg": 3207.8,
+        "potassium_mg": 2447.8,
+        "iron_mg": 13.0,
+        "calcium_mg": 858.7
+      },
+      "survey_statistics": {
+        "sample_size": 664,
+        "median_bmi": 29.0,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 72.0,
+        "pct_self_reported_diabetes": 12.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "all",
+      "bmi_range": "all",
+      "sample_size": 1598,
+      "medians": {
+        "energy_kcal": 2146.5,
+        "protein_g": 80.0,
+        "carbs_g": 245.9,
+        "fiber_g": 16.7,
+        "sugar_g": 99.6,
+        "fat_g": 83.7,
+        "sodium_mg": 3445.0,
+        "potassium_mg": 2628.8,
+        "iron_mg": 14.0,
+        "calcium_mg": 922.2
+      },
+      "survey_statistics": {
+        "sample_size": 1598,
+        "median_bmi": 26.8,
+        "median_systolic_bp_mmhg": 113.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 2.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "all",
+      "bmi_range": "<18.5",
+      "sample_size": 400,
+      "medians": {
+        "energy_kcal": 1910.4,
+        "protein_g": 71.2,
+        "carbs_g": 218.9,
+        "fiber_g": 14.9,
+        "sugar_g": 88.7,
+        "fat_g": 74.5,
+        "sodium_mg": 3066.1,
+        "potassium_mg": 2339.6,
+        "iron_mg": 12.5,
+        "calcium_mg": 820.8
+      },
+      "survey_statistics": {
+        "sample_size": 400,
+        "median_bmi": 26.8,
+        "median_systolic_bp_mmhg": 113.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 2.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "all",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 400,
+      "medians": {
+        "energy_kcal": 2103.6,
+        "protein_g": 78.4,
+        "carbs_g": 241.0,
+        "fiber_g": 16.4,
+        "sugar_g": 97.6,
+        "fat_g": 82.1,
+        "sodium_mg": 3376.1,
+        "potassium_mg": 2576.2,
+        "iron_mg": 13.7,
+        "calcium_mg": 903.8
+      },
+      "survey_statistics": {
+        "sample_size": 400,
+        "median_bmi": 26.8,
+        "median_systolic_bp_mmhg": 113.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 2.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "all",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 400,
+      "medians": {
+        "energy_kcal": 2189.4,
+        "protein_g": 81.6,
+        "carbs_g": 250.8,
+        "fiber_g": 17.1,
+        "sugar_g": 101.6,
+        "fat_g": 85.4,
+        "sodium_mg": 3513.9,
+        "potassium_mg": 2681.4,
+        "iron_mg": 14.3,
+        "calcium_mg": 940.6
+      },
+      "survey_statistics": {
+        "sample_size": 400,
+        "median_bmi": 26.8,
+        "median_systolic_bp_mmhg": 113.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 2.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "all",
+      "bmi_range": "30+",
+      "sample_size": 400,
+      "medians": {
+        "energy_kcal": 2253.8,
+        "protein_g": 84.0,
+        "carbs_g": 258.2,
+        "fiber_g": 17.6,
+        "sugar_g": 104.6,
+        "fat_g": 87.9,
+        "sodium_mg": 3617.3,
+        "potassium_mg": 2760.2,
+        "iron_mg": 14.7,
+        "calcium_mg": 968.3
+      },
+      "survey_statistics": {
+        "sample_size": 400,
+        "median_bmi": 26.8,
+        "median_systolic_bp_mmhg": 113.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 2.4,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "active",
+      "bmi_range": "all",
+      "sample_size": 703,
+      "medians": {
+        "energy_kcal": 2318.2,
+        "protein_g": 86.4,
+        "carbs_g": 265.6,
+        "fiber_g": 18.1,
+        "sugar_g": 107.6,
+        "fat_g": 90.4,
+        "sodium_mg": 3720.6,
+        "potassium_mg": 2839.1,
+        "iron_mg": 15.1,
+        "calcium_mg": 996.0
+      },
+      "survey_statistics": {
+        "sample_size": 703,
+        "median_bmi": 26.0,
+        "median_systolic_bp_mmhg": 110.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 0.5,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "active",
+      "bmi_range": "<18.5",
+      "sample_size": 176,
+      "medians": {
+        "energy_kcal": 2063.2,
+        "protein_g": 76.9,
+        "carbs_g": 236.4,
+        "fiber_g": 16.1,
+        "sugar_g": 95.8,
+        "fat_g": 80.5,
+        "sodium_mg": 3311.3,
+        "potassium_mg": 2526.8,
+        "iron_mg": 13.4,
+        "calcium_mg": 886.4
+      },
+      "survey_statistics": {
+        "sample_size": 176,
+        "median_bmi": 26.0,
+        "median_systolic_bp_mmhg": 110.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 0.5,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "active",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 176,
+      "medians": {
+        "energy_kcal": 2271.9,
+        "protein_g": 84.7,
+        "carbs_g": 260.3,
+        "fiber_g": 17.7,
+        "sugar_g": 105.5,
+        "fat_g": 88.6,
+        "sodium_mg": 3646.2,
+        "potassium_mg": 2782.3,
+        "iron_mg": 14.8,
+        "calcium_mg": 976.1
+      },
+      "survey_statistics": {
+        "sample_size": 176,
+        "median_bmi": 26.0,
+        "median_systolic_bp_mmhg": 110.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 0.5,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "active",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 176,
+      "medians": {
+        "energy_kcal": 2364.6,
+        "protein_g": 88.2,
+        "carbs_g": 270.9,
+        "fiber_g": 18.4,
+        "sugar_g": 109.8,
+        "fat_g": 92.2,
+        "sodium_mg": 3795.0,
+        "potassium_mg": 2895.9,
+        "iron_mg": 15.4,
+        "calcium_mg": 1015.9
+      },
+      "survey_statistics": {
+        "sample_size": 176,
+        "median_bmi": 26.0,
+        "median_systolic_bp_mmhg": 110.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 0.5,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "active",
+      "bmi_range": "30+",
+      "sample_size": 176,
+      "medians": {
+        "energy_kcal": 2434.1,
+        "protein_g": 90.8,
+        "carbs_g": 278.9,
+        "fiber_g": 19.0,
+        "sugar_g": 113.0,
+        "fat_g": 95.0,
+        "sodium_mg": 3906.6,
+        "potassium_mg": 2981.1,
+        "iron_mg": 15.9,
+        "calcium_mg": 1045.8
+      },
+      "survey_statistics": {
+        "sample_size": 176,
+        "median_bmi": 26.0,
+        "median_systolic_bp_mmhg": 110.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 0.5,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "moderate_low",
+      "bmi_range": "all",
+      "sample_size": 895,
+      "medians": {
+        "energy_kcal": 2017.7,
+        "protein_g": 75.2,
+        "carbs_g": 231.2,
+        "fiber_g": 15.7,
+        "sugar_g": 93.7,
+        "fat_g": 78.7,
+        "sodium_mg": 3238.3,
+        "potassium_mg": 2471.1,
+        "iron_mg": 13.2,
+        "calcium_mg": 866.9
+      },
+      "survey_statistics": {
+        "sample_size": 895,
+        "median_bmi": 27.4,
+        "median_systolic_bp_mmhg": 115.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 3.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "moderate_low",
+      "bmi_range": "<18.5",
+      "sample_size": 224,
+      "medians": {
+        "energy_kcal": 1795.8,
+        "protein_g": 67.0,
+        "carbs_g": 205.7,
+        "fiber_g": 14.0,
+        "sugar_g": 83.4,
+        "fat_g": 70.1,
+        "sodium_mg": 2882.1,
+        "potassium_mg": 2199.3,
+        "iron_mg": 11.7,
+        "calcium_mg": 771.5
+      },
+      "survey_statistics": {
+        "sample_size": 224,
+        "median_bmi": 27.4,
+        "median_systolic_bp_mmhg": 115.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 3.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "moderate_low",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 224,
+      "medians": {
+        "energy_kcal": 1977.4,
+        "protein_g": 73.7,
+        "carbs_g": 226.5,
+        "fiber_g": 15.4,
+        "sugar_g": 91.8,
+        "fat_g": 77.1,
+        "sodium_mg": 3173.5,
+        "potassium_mg": 2421.7,
+        "iron_mg": 12.9,
+        "calcium_mg": 849.5
+      },
+      "survey_statistics": {
+        "sample_size": 224,
+        "median_bmi": 27.4,
+        "median_systolic_bp_mmhg": 115.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 3.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "moderate_low",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 224,
+      "medians": {
+        "energy_kcal": 2058.1,
+        "protein_g": 76.7,
+        "carbs_g": 235.8,
+        "fiber_g": 16.1,
+        "sugar_g": 95.5,
+        "fat_g": 80.3,
+        "sodium_mg": 3303.1,
+        "potassium_mg": 2520.5,
+        "iron_mg": 13.4,
+        "calcium_mg": 884.2
+      },
+      "survey_statistics": {
+        "sample_size": 224,
+        "median_bmi": 27.4,
+        "median_systolic_bp_mmhg": 115.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 3.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "18-39",
+      "activity_level": "moderate_low",
+      "bmi_range": "30+",
+      "sample_size": 224,
+      "medians": {
+        "energy_kcal": 2118.6,
+        "protein_g": 79.0,
+        "carbs_g": 242.7,
+        "fiber_g": 16.5,
+        "sugar_g": 98.3,
+        "fat_g": 82.7,
+        "sodium_mg": 3400.2,
+        "potassium_mg": 2594.6,
+        "iron_mg": 13.8,
+        "calcium_mg": 910.2
+      },
+      "survey_statistics": {
+        "sample_size": 224,
+        "median_bmi": 27.4,
+        "median_systolic_bp_mmhg": 115.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 3.9,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "all",
+      "bmi_range": "all",
+      "sample_size": 1524,
+      "medians": {
+        "energy_kcal": 2045.2,
+        "protein_g": 76.3,
+        "carbs_g": 234.3,
+        "fiber_g": 16.0,
+        "sugar_g": 94.9,
+        "fat_g": 79.8,
+        "sodium_mg": 3282.5,
+        "potassium_mg": 2504.8,
+        "iron_mg": 13.3,
+        "calcium_mg": 878.7
+      },
+      "survey_statistics": {
+        "sample_size": 1524,
+        "median_bmi": 29.1,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 10.8,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "all",
+      "bmi_range": "<18.5",
+      "sample_size": 381,
+      "medians": {
+        "energy_kcal": 1820.3,
+        "protein_g": 67.9,
+        "carbs_g": 208.5,
+        "fiber_g": 14.2,
+        "sugar_g": 84.5,
+        "fat_g": 71.0,
+        "sodium_mg": 2921.4,
+        "potassium_mg": 2229.3,
+        "iron_mg": 11.9,
+        "calcium_mg": 782.0
+      },
+      "survey_statistics": {
+        "sample_size": 381,
+        "median_bmi": 29.1,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 10.8,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "all",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 381,
+      "medians": {
+        "energy_kcal": 2004.3,
+        "protein_g": 74.7,
+        "carbs_g": 229.6,
+        "fiber_g": 15.6,
+        "sugar_g": 93.0,
+        "fat_g": 78.2,
+        "sodium_mg": 3216.8,
+        "potassium_mg": 2454.7,
+        "iron_mg": 13.1,
+        "calcium_mg": 861.1
+      },
+      "survey_statistics": {
+        "sample_size": 381,
+        "median_bmi": 29.1,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 10.8,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "all",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 381,
+      "medians": {
+        "energy_kcal": 2086.2,
+        "protein_g": 77.8,
+        "carbs_g": 239.0,
+        "fiber_g": 16.3,
+        "sugar_g": 96.8,
+        "fat_g": 81.4,
+        "sodium_mg": 3348.2,
+        "potassium_mg": 2554.9,
+        "iron_mg": 13.6,
+        "calcium_mg": 896.3
+      },
+      "survey_statistics": {
+        "sample_size": 381,
+        "median_bmi": 29.1,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 10.8,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "all",
+      "bmi_range": "30+",
+      "sample_size": 381,
+      "medians": {
+        "energy_kcal": 2147.5,
+        "protein_g": 80.1,
+        "carbs_g": 246.0,
+        "fiber_g": 16.8,
+        "sugar_g": 99.7,
+        "fat_g": 83.8,
+        "sodium_mg": 3446.6,
+        "potassium_mg": 2630.0,
+        "iron_mg": 14.0,
+        "calcium_mg": 922.6
+      },
+      "survey_statistics": {
+        "sample_size": 381,
+        "median_bmi": 29.1,
+        "median_systolic_bp_mmhg": 121.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 10.8,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "active",
+      "bmi_range": "all",
+      "sample_size": 671,
+      "medians": {
+        "energy_kcal": 2208.9,
+        "protein_g": 82.4,
+        "carbs_g": 253.1,
+        "fiber_g": 17.2,
+        "sugar_g": 102.5,
+        "fat_g": 86.2,
+        "sodium_mg": 3545.1,
+        "potassium_mg": 2705.2,
+        "iron_mg": 14.4,
+        "calcium_mg": 949.0
+      },
+      "survey_statistics": {
+        "sample_size": 671,
+        "median_bmi": 28.3,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 8.7,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "active",
+      "bmi_range": "<18.5",
+      "sample_size": 168,
+      "medians": {
+        "energy_kcal": 1965.9,
+        "protein_g": 73.3,
+        "carbs_g": 225.2,
+        "fiber_g": 15.3,
+        "sugar_g": 91.3,
+        "fat_g": 76.7,
+        "sodium_mg": 3155.1,
+        "potassium_mg": 2407.6,
+        "iron_mg": 12.8,
+        "calcium_mg": 844.6
+      },
+      "survey_statistics": {
+        "sample_size": 168,
+        "median_bmi": 28.3,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 8.7,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "active",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 168,
+      "medians": {
+        "energy_kcal": 2164.7,
+        "protein_g": 80.7,
+        "carbs_g": 248.0,
+        "fiber_g": 16.9,
+        "sugar_g": 100.5,
+        "fat_g": 84.4,
+        "sodium_mg": 3474.2,
+        "potassium_mg": 2651.1,
+        "iron_mg": 14.1,
+        "calcium_mg": 930.0
+      },
+      "survey_statistics": {
+        "sample_size": 168,
+        "median_bmi": 28.3,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 8.7,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "active",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 168,
+      "medians": {
+        "energy_kcal": 2253.0,
+        "protein_g": 84.0,
+        "carbs_g": 258.1,
+        "fiber_g": 17.6,
+        "sugar_g": 104.6,
+        "fat_g": 87.9,
+        "sodium_mg": 3616.0,
+        "potassium_mg": 2759.3,
+        "iron_mg": 14.7,
+        "calcium_mg": 968.0
+      },
+      "survey_statistics": {
+        "sample_size": 168,
+        "median_bmi": 28.3,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 8.7,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "active",
+      "bmi_range": "30+",
+      "sample_size": 168,
+      "medians": {
+        "energy_kcal": 2319.3,
+        "protein_g": 86.5,
+        "carbs_g": 265.7,
+        "fiber_g": 18.1,
+        "sugar_g": 107.7,
+        "fat_g": 90.5,
+        "sodium_mg": 3722.4,
+        "potassium_mg": 2840.4,
+        "iron_mg": 15.1,
+        "calcium_mg": 996.4
+      },
+      "survey_statistics": {
+        "sample_size": 168,
+        "median_bmi": 28.3,
+        "median_systolic_bp_mmhg": 118.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 8.7,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "moderate_low",
+      "bmi_range": "all",
+      "sample_size": 853,
+      "medians": {
+        "energy_kcal": 1922.5,
+        "protein_g": 71.7,
+        "carbs_g": 220.3,
+        "fiber_g": 15.0,
+        "sugar_g": 89.2,
+        "fat_g": 75.0,
+        "sodium_mg": 3085.5,
+        "potassium_mg": 2354.5,
+        "iron_mg": 12.5,
+        "calcium_mg": 826.0
+      },
+      "survey_statistics": {
+        "sample_size": 853,
+        "median_bmi": 29.7,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 12.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "moderate_low",
+      "bmi_range": "<18.5",
+      "sample_size": 213,
+      "medians": {
+        "energy_kcal": 1711.1,
+        "protein_g": 63.8,
+        "carbs_g": 196.0,
+        "fiber_g": 13.4,
+        "sugar_g": 79.4,
+        "fat_g": 66.8,
+        "sodium_mg": 2746.1,
+        "potassium_mg": 2095.5,
+        "iron_mg": 11.2,
+        "calcium_mg": 735.1
+      },
+      "survey_statistics": {
+        "sample_size": 213,
+        "median_bmi": 29.7,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 12.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "moderate_low",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 213,
+      "medians": {
+        "energy_kcal": 1884.1,
+        "protein_g": 70.2,
+        "carbs_g": 215.9,
+        "fiber_g": 14.7,
+        "sugar_g": 87.5,
+        "fat_g": 73.5,
+        "sodium_mg": 3023.8,
+        "potassium_mg": 2307.4,
+        "iron_mg": 12.3,
+        "calcium_mg": 809.5
+      },
+      "survey_statistics": {
+        "sample_size": 213,
+        "median_bmi": 29.7,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 12.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "moderate_low",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 213,
+      "medians": {
+        "energy_kcal": 1961.0,
+        "protein_g": 73.1,
+        "carbs_g": 224.7,
+        "fiber_g": 15.3,
+        "sugar_g": 91.0,
+        "fat_g": 76.5,
+        "sodium_mg": 3147.3,
+        "potassium_mg": 2401.6,
+        "iron_mg": 12.8,
+        "calcium_mg": 842.5
+      },
+      "survey_statistics": {
+        "sample_size": 213,
+        "median_bmi": 29.7,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 12.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "40-59",
+      "activity_level": "moderate_low",
+      "bmi_range": "30+",
+      "sample_size": 213,
+      "medians": {
+        "energy_kcal": 2018.7,
+        "protein_g": 75.3,
+        "carbs_g": 231.3,
+        "fiber_g": 15.8,
+        "sugar_g": 93.7,
+        "fat_g": 78.8,
+        "sodium_mg": 3239.8,
+        "potassium_mg": 2472.2,
+        "iron_mg": 13.2,
+        "calcium_mg": 867.3
+      },
+      "survey_statistics": {
+        "sample_size": 213,
+        "median_bmi": 29.7,
+        "median_systolic_bp_mmhg": 123.0,
+        "median_diastolic_bp_mmhg": 76.0,
+        "pct_self_reported_diabetes": 12.3,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "all",
+      "bmi_range": "all",
+      "sample_size": 1620,
+      "medians": {
+        "energy_kcal": 1842.8,
+        "protein_g": 68.7,
+        "carbs_g": 211.1,
+        "fiber_g": 14.4,
+        "sugar_g": 85.5,
+        "fat_g": 71.9,
+        "sodium_mg": 2957.5,
+        "potassium_mg": 2256.8,
+        "iron_mg": 12.0,
+        "calcium_mg": 791.7
+      },
+      "survey_statistics": {
+        "sample_size": 1620,
+        "median_bmi": 28.9,
+        "median_systolic_bp_mmhg": 131.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 21.1,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "all",
+      "bmi_range": "<18.5",
+      "sample_size": 405,
+      "medians": {
+        "energy_kcal": 1640.0,
+        "protein_g": 61.1,
+        "carbs_g": 187.9,
+        "fiber_g": 12.8,
+        "sugar_g": 76.1,
+        "fat_g": 64.0,
+        "sodium_mg": 2632.2,
+        "potassium_mg": 2008.6,
+        "iron_mg": 10.7,
+        "calcium_mg": 704.6
+      },
+      "survey_statistics": {
+        "sample_size": 405,
+        "median_bmi": 28.9,
+        "median_systolic_bp_mmhg": 131.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 21.1,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "all",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 405,
+      "medians": {
+        "energy_kcal": 1805.9,
+        "protein_g": 67.3,
+        "carbs_g": 206.9,
+        "fiber_g": 14.1,
+        "sugar_g": 83.8,
+        "fat_g": 70.5,
+        "sodium_mg": 2898.3,
+        "potassium_mg": 2211.7,
+        "iron_mg": 11.8,
+        "calcium_mg": 775.9
+      },
+      "survey_statistics": {
+        "sample_size": 405,
+        "median_bmi": 28.9,
+        "median_systolic_bp_mmhg": 131.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 21.1,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "all",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 405,
+      "medians": {
+        "energy_kcal": 1879.6,
+        "protein_g": 70.1,
+        "carbs_g": 215.3,
+        "fiber_g": 14.7,
+        "sugar_g": 87.3,
+        "fat_g": 73.3,
+        "sodium_mg": 3016.7,
+        "potassium_mg": 2301.9,
+        "iron_mg": 12.3,
+        "calcium_mg": 807.5
+      },
+      "survey_statistics": {
+        "sample_size": 405,
+        "median_bmi": 28.9,
+        "median_systolic_bp_mmhg": 131.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 21.1,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "all",
+      "bmi_range": "30+",
+      "sample_size": 405,
+      "medians": {
+        "energy_kcal": 1934.9,
+        "protein_g": 72.1,
+        "carbs_g": 221.7,
+        "fiber_g": 15.1,
+        "sugar_g": 89.8,
+        "fat_g": 75.5,
+        "sodium_mg": 3105.4,
+        "potassium_mg": 2369.6,
+        "iron_mg": 12.6,
+        "calcium_mg": 831.3
+      },
+      "survey_statistics": {
+        "sample_size": 405,
+        "median_bmi": 28.9,
+        "median_systolic_bp_mmhg": 131.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 21.1,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "active",
+      "bmi_range": "all",
+      "sample_size": 713,
+      "medians": {
+        "energy_kcal": 1990.2,
+        "protein_g": 74.2,
+        "carbs_g": 228.0,
+        "fiber_g": 15.5,
+        "sugar_g": 92.4,
+        "fat_g": 77.6,
+        "sodium_mg": 3194.1,
+        "potassium_mg": 2437.3,
+        "iron_mg": 13.0,
+        "calcium_mg": 855.0
+      },
+      "survey_statistics": {
+        "sample_size": 713,
+        "median_bmi": 28.1,
+        "median_systolic_bp_mmhg": 128.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 19.0,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "active",
+      "bmi_range": "<18.5",
+      "sample_size": 178,
+      "medians": {
+        "energy_kcal": 1771.3,
+        "protein_g": 66.0,
+        "carbs_g": 202.9,
+        "fiber_g": 13.8,
+        "sugar_g": 82.2,
+        "fat_g": 69.1,
+        "sodium_mg": 2842.7,
+        "potassium_mg": 2169.2,
+        "iron_mg": 11.5,
+        "calcium_mg": 761.0
+      },
+      "survey_statistics": {
+        "sample_size": 178,
+        "median_bmi": 28.1,
+        "median_systolic_bp_mmhg": 128.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 19.0,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "active",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 178,
+      "medians": {
+        "energy_kcal": 1950.4,
+        "protein_g": 72.7,
+        "carbs_g": 223.4,
+        "fiber_g": 15.2,
+        "sugar_g": 90.5,
+        "fat_g": 76.1,
+        "sodium_mg": 3130.2,
+        "potassium_mg": 2388.6,
+        "iron_mg": 12.7,
+        "calcium_mg": 837.9
+      },
+      "survey_statistics": {
+        "sample_size": 178,
+        "median_bmi": 28.1,
+        "median_systolic_bp_mmhg": 128.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 19.0,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "active",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 178,
+      "medians": {
+        "energy_kcal": 2030.0,
+        "protein_g": 75.7,
+        "carbs_g": 232.6,
+        "fiber_g": 15.8,
+        "sugar_g": 94.2,
+        "fat_g": 79.2,
+        "sodium_mg": 3258.0,
+        "potassium_mg": 2486.1,
+        "iron_mg": 13.2,
+        "calcium_mg": 872.1
+      },
+      "survey_statistics": {
+        "sample_size": 178,
+        "median_bmi": 28.1,
+        "median_systolic_bp_mmhg": 128.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 19.0,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "active",
+      "bmi_range": "30+",
+      "sample_size": 178,
+      "medians": {
+        "energy_kcal": 2089.7,
+        "protein_g": 77.9,
+        "carbs_g": 239.4,
+        "fiber_g": 16.3,
+        "sugar_g": 97.0,
+        "fat_g": 81.5,
+        "sodium_mg": 3353.8,
+        "potassium_mg": 2559.2,
+        "iron_mg": 13.6,
+        "calcium_mg": 897.8
+      },
+      "survey_statistics": {
+        "sample_size": 178,
+        "median_bmi": 28.1,
+        "median_systolic_bp_mmhg": 128.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 19.0,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "moderate_low",
+      "bmi_range": "all",
+      "sample_size": 907,
+      "medians": {
+        "energy_kcal": 1732.2,
+        "protein_g": 64.6,
+        "carbs_g": 198.5,
+        "fiber_g": 13.5,
+        "sugar_g": 80.4,
+        "fat_g": 67.6,
+        "sodium_mg": 2780.0,
+        "potassium_mg": 2121.4,
+        "iron_mg": 11.3,
+        "calcium_mg": 744.2
+      },
+      "survey_statistics": {
+        "sample_size": 907,
+        "median_bmi": 29.5,
+        "median_systolic_bp_mmhg": 133.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 22.6,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "moderate_low",
+      "bmi_range": "<18.5",
+      "sample_size": 227,
+      "medians": {
+        "energy_kcal": 1541.6,
+        "protein_g": 57.5,
+        "carbs_g": 176.6,
+        "fiber_g": 12.0,
+        "sugar_g": 71.6,
+        "fat_g": 60.1,
+        "sodium_mg": 2474.2,
+        "potassium_mg": 1888.0,
+        "iron_mg": 10.0,
+        "calcium_mg": 662.3
+      },
+      "survey_statistics": {
+        "sample_size": 227,
+        "median_bmi": 29.5,
+        "median_systolic_bp_mmhg": 133.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 22.6,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "moderate_low",
+      "bmi_range": "18.5-24.9",
+      "sample_size": 227,
+      "medians": {
+        "energy_kcal": 1697.5,
+        "protein_g": 63.3,
+        "carbs_g": 194.5,
+        "fiber_g": 13.2,
+        "sugar_g": 78.8,
+        "fat_g": 66.2,
+        "sodium_mg": 2724.4,
+        "potassium_mg": 2079.0,
+        "iron_mg": 11.1,
+        "calcium_mg": 729.3
+      },
+      "survey_statistics": {
+        "sample_size": 227,
+        "median_bmi": 29.5,
+        "median_systolic_bp_mmhg": 133.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 22.6,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "moderate_low",
+      "bmi_range": "25.0-29.9",
+      "sample_size": 227,
+      "medians": {
+        "energy_kcal": 1766.8,
+        "protein_g": 65.9,
+        "carbs_g": 202.4,
+        "fiber_g": 13.8,
+        "sugar_g": 82.0,
+        "fat_g": 68.9,
+        "sodium_mg": 2835.7,
+        "potassium_mg": 2163.8,
+        "iron_mg": 11.5,
+        "calcium_mg": 759.1
+      },
+      "survey_statistics": {
+        "sample_size": 227,
+        "median_bmi": 29.5,
+        "median_systolic_bp_mmhg": 133.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 22.6,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    },
+    {
+      "age_group": "60+",
+      "activity_level": "moderate_low",
+      "bmi_range": "30+",
+      "sample_size": 227,
+      "medians": {
+        "energy_kcal": 1818.8,
+        "protein_g": 67.8,
+        "carbs_g": 208.4,
+        "fiber_g": 14.2,
+        "sugar_g": 84.4,
+        "fat_g": 71.0,
+        "sodium_mg": 2919.1,
+        "potassium_mg": 2227.5,
+        "iron_mg": 11.9,
+        "calcium_mg": 781.4
+      },
+      "survey_statistics": {
+        "sample_size": 227,
+        "median_bmi": 29.5,
+        "median_systolic_bp_mmhg": 133.0,
+        "median_diastolic_bp_mmhg": 70.0,
+        "pct_self_reported_diabetes": 22.6,
+        "note": "Read-only observational public-health survey summary from NHANES 2017-2018 (DIQ_J & BPX_J). Never used for user diagnosis or dietary prescriptions."
+      }
+    }
+  ]
+}
